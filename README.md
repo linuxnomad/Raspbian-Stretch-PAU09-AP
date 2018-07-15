@@ -28,5 +28,7 @@ https://www.raspberrypi.org/forums/viewtopic.php?p=1296235
 After various configuration testing the optimal options that allowed for the PAU09 to broadcast correctly and allow connectivity were:
 
 #driver=rt2800usb
+
 hw_mode=g
+
 wps_rf_bands=g
