@@ -8,7 +8,7 @@ The bulk of this configuration was obtained from roboberry at raspberryconnect.c
 http://www.raspberryconnect.com/network/item/330-raspberry-pi-auto-wifi-hotspot-switch-internet
 
 
-Using the above configuration and the included hostapd.conf the PAU09 would function correctly. All steps from the roboberry guide should be followed with the exception of the /etc/hostapd/hostapd.conf file. 
+Using the above configuration and the included hostapd.conf the PAU09 would not function correctly. All steps from the roboberry guide should be followed with the exception of the /etc/hostapd/hostapd.conf file. 
 
 
 Other Guides that were used in reference:
