@@ -1,4 +1,4 @@
-# Raspbian-Stretch-PAU09-AC
+# Raspbian Stretch PAU09 Panda Wireless Access Point
 Modification of common configuration guides for using Raspberry Pi 3 hardware for creating an access point with the Panda Wireless PAU09
 
 DISCLAIMER:I do not claim to be an expert in hostapd, dnsmasq, wpa_supplicant, or WiFi configurations. If I get something wrong please correct me and include documentation/explanation for me to understand the mistake.
