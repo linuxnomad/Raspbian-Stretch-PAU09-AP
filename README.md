@@ -5,7 +5,7 @@ DISCLAIMER:I do not claim to be an expert in hostapd, dnsmasq, wpa_supplicant, o
 
 The bulk of this configuration was obtained from roboberry at raspberryconnect.com.
 
-http://www.raspberryconnect.com/network/item/330-raspberry-pi-auto-wifi-hotspot-switch-internet
+https://www.raspberryconnect.com/projects/65-raspberrypi-hotspot-accesspoints/157-raspberry-pi-auto-wifi-hotspot-switch-internet
 
 
 Using the above configuration and the included hostapd.conf the PAU09 would not function correctly. All steps from the roboberry guide should be followed with the exception of the /etc/hostapd/hostapd.conf file. 
